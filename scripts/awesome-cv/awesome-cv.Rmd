@@ -1,15 +1,15 @@
 ---
-name: Colton
-surname: Baumler
+name: Jack
+surname: Hammang
 position: "Graduate Student Candidate"
 pronouns: He/Him
 address: "Data Intensive Biology lab of the University of California, Davis"
 #phone: +1 555 555 5555
 www: ""
-email: "ccbaumler@ucdavis.edu"
+email: "jhhammang@gmail.com"
 twitter: ""
-github: ccbaumler
-linkedin: colton-baumler
+github: jhhammang
+linkedin: jackhammang
 orcid: 0000-0002-5926-7792
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "9e2e2e"
