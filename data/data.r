@@ -7,9 +7,9 @@ edu <- tribble(
 
 exp <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Graduate Research", "University of California, Davis", NA, 2025, "Present", NA, "Davis - California", "Time-Series anomoly identifiaction using R and Wildlife Rehab Medical Database",
-  "Undergraduate Research", "University of California, Santa Barbara", NA, 2015, NA, 2015, "Santa Barbara - California", "African terestiral tropic structure analysis using istope analysis of ectoparasites",
-  "Undergraduate Research", "University of California, San Diego", NA, 2014, NA, 2014, "San Diego - California", "Decadal fish population analysis using genetics",
+  "Graduate Research", "University of California, Davis", NA, 2025, "Present", NA, "Davis - California", "Time-Series anomoly identification using R and Wildlife Rehab Medical Database",
+  "Undergraduate Research", "University of California, Santa Barbara", NA, 2015, NA, 2015, "Santa Barbara - California", "African terrestrial trophic structure analysis using isotope analysis of ectoparasites",
+  "Undergraduate Research", "University of California, San Diego", NA, 2014, NA, 2014, "San Diego - California", "Decadal fish population genetic analysis",
 )
 
 service <- tribble(
@@ -44,28 +44,18 @@ funds <- tribble(
 
 honors <- tribble(
   ~area, ~accomplishment, ~month, ~year, ~where, ~detail,
-  "Professors for the Future", "A competitive, leadership-development program", "May", 2024, "University of California, Davis", NA,
-  "College of Biological Science’s Dean’s Mentorship Award", "In recognition of graduate students who have excelled in the mentorship of undergraduate students", "May", 2022, "University of California, Davis", NA,
-  "NSF Graduate Research Fellowship Program (GRFP) Award", NA, "March", 2020, "University of California, Davis", NA,
-  "NIH Undergraduate Preparation Fellowship (UPF) Award", NA, "March", 2020, "University of California, Davis", NA,
-  "NIH Postbaccalaureate Research Education Program (PREP) Award", NA, "May", 2019, "University of California, Davis", NA,
-  "Honors in Research", NA, "Decemeber", 2018, "University of California, Santa Barbara", NA,
-  "Paul W. Stor Biology Award", "For excellence and dedication to undergraduate biological sciences", "May", 2018, "University of California, Santa Barbara", NA,
-  "Dean's List", NA, "2014 -", 2018, "University of California, Santa Barbara", NA,
-  "Airman of the Quarter", "Acknowledgment of excellence while serving in the United States Air Force", "January", 2013, "Joint Base McGuire Dix Lakehurst", NA,
-  "Academic Excellence", NA, "May", 2010, "Hennepin Technical College", NA,
+ "Dean's List", NA, "2012-2014", 2018, "University of California, Santa Barbara", NA,
 )
 
 skills <- tribble(
   ~area, ~skills, ~year, ~where, ~detail,
-  "Programming Languages", "BASH, R, JavaScript, Python, SQL", " ", "University of California, Davis", NA,
-  "Markup Languages", "CSS, HTML, LaTeX, Markdown, RMarkdown", " ", "University of California, Davis", NA,
-  "Other Languages", "Snakemake", " ", "University of California, Davis", NA,
+  "Programming Languages", "R, SAS", " ", "University of California, Davis", NA,
+  "Markup Languages", "LaTeX, RMarkdown", " ", "University of California, Davis", NA,
+  "Other Languages", "GDScript", " ", NA, NA,
   "Version Control", "Git/GitHub", " ", "University of California, Davis", NA,
-  "Text Editors", "RStudio, VIM/NeoVim", " ", "University of California, Davis", NA,
-  "Health", "Self-Aid Buddy Care (SABC), CPR Trained, AED Certified", " ", "United States Air Force", NA,
-  "Safety", "Self-Defense Coordinator, Sexual Assault Victim Advocate (SAVA)", " ", "United States Air Force", NA,
-  "Mechanics", "FCC GROL, Certified Aircraft Mechanic, Certified Automotive Mechanic", " ", "United States Air Force", NA,
+  "Text Editors", "RStudio, Microsoft Office", " ", "University of California, Davis", NA,
+  "Laboratory Techniques", "Water Quality Titrations, Anteseptic Techniques, Handling and Storage of Hazardous Chemicals, Inventory", " ", "City of San Diego", NA,
+  "Animal Care", "Ceriodaphnia, Abalone, Minnow fry, Amphipod, Songbirds, Raptors, Seabirds, Water-fowl, Small Mammals", " ", "San Diego", NA,
 )
 
 presents <- tribble(
