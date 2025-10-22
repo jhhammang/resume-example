@@ -3,9 +3,9 @@ title: markdowncv
 name: "Jack"
 namecolor: "#E1BE6A"
 surname: Hammang
-position: "Graduate Student Candidate"
+position: "Biostatistician"
 pronouns: He/Him
-address: "Data Intensive Biology lab of the University of California, Davis"
+address: "Davis"
 #phone: +1 555 555 5555
 www: ""
 email: "jhhammang@gmail.com"
@@ -18,7 +18,7 @@ codecolor: "#CCCCCC"
 backcolor: "#000"
 textcolor: "#FFFFFF"
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "I'd rather be someplace else."
 output:
   vitae::markdowncv:
     theme: ccbaumler
