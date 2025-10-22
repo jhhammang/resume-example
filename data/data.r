@@ -7,26 +7,16 @@ edu <- tribble(
 
 exp <- tribble(
   ~title, ~unit, ~startMonth, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Graduate Research", "University of California, Davis", NA, 2020, "Present", NA, "Davis - California", "Pangenomic and novel database curation for the sourmash software ecosystem",
-  "Graduate Research", "University of California, Davis", NA, 2020, "Present", NA, "Davis - California", "Case vs control multiomic investigation of public data",
-  "Graduate Research", "University of California, Davis", NA, 2020, "Present", NA, "Davis - California", "Image analysis and quantification pipeline for ectodermal derivatives specified in early development",
-  "Graduate Research", "University of California, Davis", NA, 2020, "Present", NA, "Davis - California", "Professors for the Future (PFTF) Fellow",
-  "Graduate Research", "University of California, Davis", NA, 2020, "Present", NA, "Davis - California", "NIH Molecular Cell Biology T32 Fellowship Affiliate",
-  "Graduate Research", "University of California, Davis", NA, 2020, "Present", NA, "Davis - California", "NIH Initiative for Maximizing Student Development (IMSD) Affiliate",
-  "Junior Research Specialist", "University of California, Davis", NA, 2019, NA, 2020, "Davis - California", "Molecular evolution of thermal tolerance in coral",
-  "Junior Research Specialist", "University of California, Davis", NA, 2019, NA, 2020, "Davis - California", "Knot theory topology of dsDNA in bacteriophage DNA packaging",
-  "Undergraduate Research", "University of California, Santa Barbara", NA, 2017, NA, 2019, "St. Paul - California", "Novel artificial culture vessel for shell-less chick development",
-  "Tutor", "University of California, Santa Barbara", NA, 2016, NA, 2018, "St. Paul - California", "In subjects of Calculus, Physics, Chemistry, and Biology",
+  "Graduate Research", "University of California, Davis", NA, 2025, "Present", NA, "Davis - California", "Time-Series anomoly identifiaction using R and Wildlife Rehab Medical Database",
+  "Undergraduate Research", "University of California, Santa Barbara", NA, 2015, NA, 2015, "Santa Barbara - California", "African terestiral tropic structure analysis using istope analysis of ectoparasites",
+  "Undergraduate Research", "University of California, San Diego", NA, 2014, NA, 2014, "San Diego - California", "Decadal fish population analysis using genetics",
 )
 
 service <- tribble(
   ~area, ~accomplishment, ~startYear, ~endMonth, ~endYear, ~where, ~detail,
-  "Scholarly Literature Workshop Author and Lead instructor", "DataLab", 2024, "Present", NA, "University of California, Davis", NA,
-  "Gene Regulatory Networks for Development Teaching Assistant", "Marine Biology Laboratory", NA, NA, 2024, "University of Chicago", NA,
-  "Admissions Committee Member", "PREP@UCD", 2023, "Present", NA, "University of California, Davis", NA,
-  "Recruitment Colloquium Mentor", "BMCDB Graduate Group", 2020, NA, 2024, "University of California, Davis", NA,
-  "Biology Graduate Admissions Pathways Mentor", "BioGAP", 2020, NA, 2021, "University of California, Davis", NA,
-  "NSF GRFP Grant Writing Working Group Creator and Lead Instructor", "Rogers Lab", 2020, NA, 2021, "University of California, Davis", NA,
+  "Laboratory Technician", "City of San Diego, Environmental Monitoring and Technical Services", 2019, NA, 2023, "San Diego", "blah",
+  "Wildlife Care Specialist", "San Diego Humane Society", 2018, NA, 2019, "San Diego", "Blah blah",
+  "Animal Caregiver", "San Diego Humane Society", 2017, NA, 2018, "San Diego", "Blah blah blah",
 )
 
 community <- tribble(
